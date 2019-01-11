@@ -1,10 +1,10 @@
-# 微信小程序-note
+# 微信小程序-wx_note
 小本本，记录一下。
 
 <div align="center">
-<img src="https://github.com/rrcgat/note/raw/master/screenshot/page1.jpg" width="360" height="640" alt="首页"/>
-<img src="https://github.com/rrcgat/note/raw/master/screenshot/page2.jpg" width="360" height="640" alt="小本本详情页"/>
-<img src="https://github.com/rrcgat/note/raw/master/screenshot/menu.jpg" width="360" height="640" alt="菜单页"/>
+<img src="https://github.com/rrcgat/wx_note/raw/master/screenshot/page1.jpg" width="360" height="640" alt="首页"/>
+<img src="https://github.com/rrcgat/wx_note/raw/master/screenshot/page2.jpg" width="360" height="640" alt="小本本详情页"/>
+<img src="https://github.com/rrcgat/wx_note/raw/master/screenshot/menu.jpg" width="360" height="640" alt="菜单页"/>
 </div>
 
 1. 只实现了本地保存功能，数据并不能安全保存。
